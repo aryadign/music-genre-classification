@@ -4,7 +4,7 @@
 
 Aplikasi web berbasis **Streamlit** yang mengklasifikasikan genre musik dari sebuah file audio menggunakan model **Support Vector Machine (SVM)** yang dilatih pada fitur-fitur spektral audio hasil ekstraksi manual dengan **Librosa**.
 
-> Final Project — Mata Kuliah Audio Processing
+> Final Project — Mata Kuliah PPDM
 
 ---
 
